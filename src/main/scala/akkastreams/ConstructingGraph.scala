@@ -10,7 +10,7 @@ import scala.concurrent.duration.SECONDS
 import scala.util.Success
 
 /**
-  * http://doc.akka.io/docs/akka/2.4.2/scala/stream/stream-graphs.html#constructing-sources-sinks-and-flows-from-partial-
+  * http://InfoURL.akka.io/docs/akka/2.4.2/scala/stream/stream-graphs.html#constructing-sources-sinks-and-flows-from-partial-
   *
   * In fact, these concepts can be easily expressed as special cases of a partially connected graph:
   *

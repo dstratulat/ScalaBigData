@@ -1,0 +1,34 @@
+//End-to-End Data Pipelines
+
+Introduction - Scala
+Data Collection
+Akka Collectors, AKKA HTTP
+Queuing
+Kafka
+
+Interactive Programming
+Spark Notebook
+Produce (Notebook example)
+
+
+Streaming Data
+Spark Streaming
+Consume Streaming
+In-Memory Data
+Cassandra
+
+Store
+Data Analysis
+Spark Core and MLlib
+Model (Notebook example)
+
+Access Layer
+Akka Micro Service
+Serve (Notebook example)
+Break
+
+Cluster Manager and Orchestration
+Mesos
+Marathon and Chronos
+Live Coding Exercise
+Wrap Up
